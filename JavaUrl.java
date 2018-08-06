@@ -4,8 +4,7 @@ import java.io.*;
 
 public class JavaUrl {
      public static void main(String[] args)
-  {
-   // String outt=getURL("https://docs.oracle.com/javase/8/docs/api/java/net/package-summary.html");  
+  { 
     String output  = getUrlContents("url");
     System.out.println(output);
     System.out.println(args[Integer.parseInt(args[3])]);
