@@ -49,10 +49,9 @@ JavaFXApplication:When our parents scolded us for something though we dont liste
 
 ## Authors
 
-
+* **Twinkle Baradia**
 * **Muskan Singla**
 * **Navya Mathur** 
-* **Twinkle Baradia**
 
 ## License
 
